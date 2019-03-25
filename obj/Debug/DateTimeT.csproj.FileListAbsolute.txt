@@ -1,0 +1,7 @@
+C:\Users\peema\source\repos\DateTimeT\DateTimeT\bin\Debug\DateTimeT.exe.config
+C:\Users\peema\source\repos\DateTimeT\DateTimeT\bin\Debug\DateTimeT.exe
+C:\Users\peema\source\repos\DateTimeT\DateTimeT\bin\Debug\DateTimeT.pdb
+C:\Users\peema\source\repos\DateTimeT\DateTimeT\obj\Debug\DateTimeT.csprojAssemblyReference.cache
+C:\Users\peema\source\repos\DateTimeT\DateTimeT\obj\Debug\DateTimeT.csproj.CoreCompileInputs.cache
+C:\Users\peema\source\repos\DateTimeT\DateTimeT\obj\Debug\DateTimeT.exe
+C:\Users\peema\source\repos\DateTimeT\DateTimeT\obj\Debug\DateTimeT.pdb
